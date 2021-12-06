@@ -1,0 +1,40 @@
+%======================================================%
+%   Beamer Presentation
+%   LaTeX Template
+%   compile using PDFTeXify or PDFLaTeX
+%======================================================%
+
+%--------------------------------------------------------------------------------
+%   PACKAGES AND THEMES
+%--------------------------------------------------------------------------------
+
+\documentclass[notheorems,11pt,dvipsnames]{beamer} %compress,
+
+\input{1_circumstance.tex}
+\input{2_TittlePage.tex}
+\input{3_UserDef.tex}
+
+
+
+\begin{document}
+
+%------------设置页面基本格式--------------
+%\setbeamertemplate{headline}{}
+{\thispagestyle{empty}
+\setbeamercolor{background canvas}{bg=darkgray}
+\begin{frame}
+\titlepage % Print the title page as the first slide
+\end{frame}}
+
+
+%% 英文大纲
+% \begin{frame}
+% \frametitle{Outline}
+% \tableofcontents
+% \end{frame}
+
+
+\input{4_UserEdit.tex}
+
+\end{document}
+

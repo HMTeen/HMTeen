@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{文本与 Block}{3}{0}{1}
+\beamer@sectionintoc {2}{列表环境与分栏}{5}{0}{2}
+\beamer@sectionintoc {3}{定理与表格}{9}{0}{3}
+\beamer@sectionintoc {4}{插图环境}{14}{0}{4}
+\beamer@sectionintoc {5}{参考文献}{16}{0}{5}
